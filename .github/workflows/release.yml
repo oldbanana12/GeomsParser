@@ -44,6 +44,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./SampleX64.ZIP
-          asset_name: SampleX64.ZIP
+          asset_path: ./GeomsParserX64.ZIP
+          asset_name: GeomsParserX64.ZIP
           asset_content_type: application/zip

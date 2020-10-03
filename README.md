@@ -17,4 +17,4 @@ For example, here is a screenshot of the resulting .obj file from `cuba_common_p
 ![cuba .obj screenshot](cuba_screenshot.png)
 
 ## Releases
-Releases are automatically built and uploaded by GitHub actions when a tag is pushed to the repository. You can download the latest build [here](releases/latest/download/GeomsParserX64.ZIP)
+Releases are automatically built and uploaded by GitHub actions when a tag is pushed to the repository. You can download the latest build [here](https://github.com/oldbanana12/GeomsParser/releases/latest/download/GeomsParserX64.ZIP)
